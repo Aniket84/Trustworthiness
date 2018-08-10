@@ -1,0 +1,3 @@
+TruthFinder.ActionEditor2
+TruthFinder.ActionFeatureArgs2
+TruthFinder.ActionFeatureChoice2
